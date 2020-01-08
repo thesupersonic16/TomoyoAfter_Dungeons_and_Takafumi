@@ -5,7 +5,7 @@ A Reimplementation of Dungeons and Takafumi for Win32 and Linux
 I have decided to stop working on this project as I have been finding myself not understanding the rest of original disassembly of the original game. 
 You may fork this repo and continue working on it if you like. Besides that you may use this project to get information about how the game works. Just keep in mind that the battling code does not work at all and is completely incorrect.
 
-Keep in mind when looking or working on the code it is a mess and almost all the methods starting with sub_ are either un-named, stubbed or just me messing around trying to see if anything will happen.
+Keep in mind when looking or working on the code it is a mess and almost all the methods starting with `UnknownFunction_` are either un-named, stubbed or just me messing around trying to see if anything will happen.
 
 
 ## Compiling
